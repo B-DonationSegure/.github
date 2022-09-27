@@ -1,8 +1,8 @@
-# Smart-Contract-notes
+# Smart-Notes-Files
 ---
 ## What is?
 
-* Is a powerful note manager developed as a dApp
+* Is a powerful notes and files manager developed as a dApp
 
 
 
