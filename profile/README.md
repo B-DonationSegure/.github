@@ -2,7 +2,7 @@
 ---
 ## What is?
 
-* Is a powerful notes and files manager developed as a dApp
+* Is a powerful notes and files public manager developed as a dApp with protocol Near 
 
 
 
